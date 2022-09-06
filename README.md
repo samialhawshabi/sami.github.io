@@ -1,1 +1,1 @@
-# sami.github.io/src/templates/
+# sami.github.io/
